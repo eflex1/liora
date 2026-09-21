@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Column 1: Brand */}
           <div className="flex flex-col items-start">
             <img 
-              src="/src/assets/liora-logo.png" 
+              src="/liora-logo.png" 
               alt="The Liora Initiative" 
               className="h-10 w-auto object-contain mb-6" 
             />

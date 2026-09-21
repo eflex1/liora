@@ -36,7 +36,7 @@ const Navbar = () => {
           
           <a href="#" className="relative z-10 flex items-center">
             <img 
-              src="/src/assets/liora-logo.png" 
+              src="/liora-logo.png" 
               alt="The Liora Initiative" 
               className="h-12 w-auto object-contain" 
             />

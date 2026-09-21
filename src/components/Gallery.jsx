@@ -3,20 +3,20 @@ import { ArrowUpRight } from 'lucide-react';
 // You now have total control. Just drag and drop these blocks to change the order!
 // The one with "isHero: true" will automatically span the full width of the bottom row.
 const galleryItems = [
-  { id: 1, src: '/src/assets/liora-1.webp', title: 'Masterclass Sessions', subtitle: 'Community in Action' },
-  { id: 2, src: '/src/assets/liora-2.webp', title: 'Masterclass Sessions', subtitle: 'Community in Action' },
-  { id: 3, src: '/src/assets/liora-3.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
-  { id: 4, src: '/src/assets/liora-4.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
-  { id: 5, src: '/src/assets/liora-5.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
-  { id: 6, src: '/src/assets/liora-6.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
-  { id: 7, src: '/src/assets/liora-7.webp', title: 'Masterclass Sessions', subtitle: 'Community in Action' },
-  { id: 9, src: '/src/assets/liora-9.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
-  { id: 10, src: '/src/assets/liora-10.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
+  { id: 1, src: '/liora-1.webp', title: 'Masterclass Sessions', subtitle: 'Community in Action' },
+  { id: 2, src: '/liora-2.webp', title: 'Masterclass Sessions', subtitle: 'Community in Action' },
+  { id: 3, src: '/liora-3.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
+  { id: 4, src: '/liora-4.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
+  { id: 5, src: '/liora-5.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
+  { id: 6, src: '/liora-6.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
+  { id: 7, src: '/liora-7.webp', title: 'Masterclass Sessions', subtitle: 'Community in Action' },
+  { id: 9, src: '/liora-9.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
+  { id: 10, src: '/liora-10.webp', title: 'Education Outreach', subtitle: 'Community in Action' },
   
   // Image 7 moved to the end and set as the massive Hero shot!
   { 
     id: 8, 
-    src: '/src/assets/liora-8.webp', 
+    src: '/liora-8.webp', 
     title: 'Masterclass Sessions', 
     subtitle: 'United for Change',
     isHero: true 

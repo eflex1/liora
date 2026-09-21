@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="relative min-h-[85vh] flex items-center pt-24 pb-12 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img 
-          src="/src/assets/hero-bg.webp" 
+          src="/hero-bg.webp" 
           alt="Children smiling" 
           className="w-full h-full object-cover"
         />

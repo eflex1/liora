@@ -11,7 +11,7 @@ const Founder = () => {
             <div className="absolute inset-0 bg-liora-burgundy/10 rounded-3xl transform translate-x-3 translate-y-3"></div>
             <div className="relative overflow-hidden rounded-3xl aspect-[4/5] bg-gray-200 z-10">
               <img 
-                src="/src/assets/founder.webp" 
+                src="/founder.webp" 
                 alt="Dr. Emilia Manyo, Founder of The Liora Initiative" 
                 className="w-full h-full object-cover"
               />
